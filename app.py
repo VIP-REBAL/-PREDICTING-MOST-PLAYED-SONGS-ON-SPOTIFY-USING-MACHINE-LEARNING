@@ -23,8 +23,7 @@ from sklearn.model_selection import GroupKFold, GroupShuffleSplit, cross_val_pre
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
 
-st.set_page_config(page_title="PREDICTING MOST PLAYED SONGS ON SPOTIFY
-USING MACHINE LEARNING", page_icon="🎧", layout="wide")
+st.set_page_config(page_title="PREDICTING MOST PLAYED SONGS ON SPOTIFY USING MACHINE LEARNING", page_icon="🎧", layout="wide")
 
 # ----------------------------------------------------------------------------
 # Small helpers
